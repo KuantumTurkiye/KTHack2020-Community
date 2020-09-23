@@ -12,11 +12,14 @@ PAVOTEK sponsorluğunda 3 kategoride toplam ödül miktarı 10.000 TL'dir.
 
 Hackathon’a katılan ekipler fikir, proje veya uygulamalarını bu kategorilerden birisi altında değerlendirmeye sunacaklardır. Her bir kategoride ekiplerin yapacağı sunumlar alanın uzmanları olan jüri üyeleri tarafından değerlendirilecektir. Projeler bir alt başlıkta bulunan şablon kullanılarak tarafımıza iletilecektir.
 
-[`Buradan`]() KTHack2020 ile ilgili daha detaylı bilgi edinebilir ve başvurunuzu gerçekleştirebilirsiniz.
+[`Buradan`](https://qturkey.org/hackathon) KTHack2020 ile ilgili daha detaylı bilgi edinebilir ve başvurunuzu gerçekleştirebilirsiniz.
 
 ## Hackathon Proje Gönderimi
 
-Projenizi tamamladığınızda [`buradan`](https://www.qturkey.org/hackathon) proje gönderim şablonunu kullanarak bir "issue" oluşturun ve projenizi bize iletin.
+Projenizi tamamladığınızda [`buradaki`](https://github.com/KuantumTurkiye/KTHack2020-Community/blob/master/Project-Template.md) proje gönderim şablonunu kullanarak bir "issue" oluşturun ve projenizi bize iletin.
+
+Issue oluşturma ile ilgili yardım dökümanı için ['buraya'](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) göz atabilirsiniz.
+
 *Hepsi bu kadar.*
 
 ## Hackathon Takvimi
