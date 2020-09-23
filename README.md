@@ -29,12 +29,12 @@ Projenizi tamamladığınızda [`buradan`](https://www.qturkey.org/hackathon) pr
 
 ## Faydalı Bağlantılar
 
-- [`Organizasyon Sitemiz`](https://www.qturkey.org/)
-- [`Yayın Platformumuz`](https://kuantumturkiye.org/)
-- ['KTHack2020 Alan Kitapçığı']()
+- [Organizasyon Sitemiz](https://www.qturkey.org/)
+- [Yayın Platformumuz](https://kuantumturkiye.org/)
+- [KTHack2020 Alan Kitapçığı]()
 
 ## Sosyal
 
-- ['Twitter'](https://twitter.com/KuantumTurkiye)
-- ['LinkedIn'](https://linkedin.com/company/QTurkey)
-- ['Discord']()
+- [Twitter](https://twitter.com/KuantumTurkiye)
+- [LinkedIn](https://linkedin.com/company/QTurkey)
+- [Discord]()
