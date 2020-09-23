@@ -40,4 +40,4 @@ Issue oluşturma ile ilgili yardım dökümanı için ['buraya'](https://docs.gi
 
 - [Twitter](https://twitter.com/KuantumTurkiye)
 - [LinkedIn](https://linkedin.com/company/QTurkey)
-- [Discord](https://discord.com)
+- [Slack](https://qturkey.slack.com/join/shared_invite/enQtODcwOTY0MDE0NzQzLTEyNWFhYTI3NzJhMTYyOTVmYjFkZjViMDRjODRkMmExYzlkZWI0OGZiMDgyYTAyNTU4MDZiMGI1YjU0OTU0MjA#/)
