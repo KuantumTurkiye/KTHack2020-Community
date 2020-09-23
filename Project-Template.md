@@ -14,8 +14,6 @@
 
  - @KuantumTurkiye | İsim: KuantumTurkiye
 
-# Deliverable
-
 # GitHub Bağlantı
 
 *Buraya projenizin bulunduğu GitHub deposunun bağlantısını yazınız.*
