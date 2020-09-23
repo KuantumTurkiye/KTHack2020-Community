@@ -40,4 +40,4 @@ Issue oluşturma ile ilgili yardım dökümanı için ['buraya'](https://docs.gi
 
 - [Twitter](https://twitter.com/KuantumTurkiye)
 - [LinkedIn](https://linkedin.com/company/QTurkey)
-- [Discord]()
+- [Discord](https://discord.com)
